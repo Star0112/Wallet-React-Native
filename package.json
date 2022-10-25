@@ -39,7 +39,7 @@
     "galio-framework": "^0.6.3",
     "hdkey": "^1.1.1",
     "https-browserify": "0.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.13.8",
     "numeral": "^2.0.6",
     "path-browserify": "0.0.0",
